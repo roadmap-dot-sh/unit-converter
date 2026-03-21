@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: unit-converter-be
+server:
+  port: 3333
